@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ms9w25.plcwin.xyz/sitemap.xml
